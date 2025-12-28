@@ -15,7 +15,7 @@
 🤝 I’m open to consulting for **enterprise-level PHP & CodeIgniter projects**  
 🌱 Currently exploring **AI integrations, automation & performance optimization**  
 💬 Ask me about **PHP, CodeIgniter (3 & 4), APIs, CRM, E-commerce, MySQL**  
-📫 Reach me at **mail@pawanmall.net**  
+📫 Reach me at **pawan.webmaster@gmail.com**  
 👨‍💻 All my projects: **https://webdevservices.in**  
 📄 Know about my experience: **LinkedIn / Resume on request**  
 ⚡ Fun fact: *I love turning complex business logic into clean, scalable code*
