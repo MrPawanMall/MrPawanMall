@@ -2,7 +2,7 @@
 <h3 align="center">Senior PHP Developer | Custom CMS & CRM Architect | API & E-commerce Specialist</h3>
 
 <p align="center">
-  <a href="https://webdevservices.in" target="_blank">🌐 WebDevServices.in</a>
+  <a href="https://pawanmall.in" target="_blank">🌐 PawanMall.in</a> | <a href="https://webdevservices.in" target="_blank">🌐 WebDevServices.in</a>
 </p>
 
 ---
@@ -17,6 +17,7 @@
 💬 Ask me about **PHP, CodeIgniter (3 & 4), APIs, CRM, E-commerce, MySQL**  
 📫 Reach me at **pawan.webmaster@gmail.com**  
 👨‍💻 All my projects: **https://webdevservices.in**  
+👨‍💻 My profile: **https://pawanmall.in**  
 📄 Know about my experience: **LinkedIn / Resume on request**  
 ⚡ Fun fact: *I love turning complex business logic into clean, scalable code*
 
